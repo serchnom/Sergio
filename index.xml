@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>cocina</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>lista 1</title>
+<thumbnail>https://digi4ent.com/index.php?route=product/product&product_id=51</thumbnail>
+<fanart>http://iptvprivado.tv/</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/serchnom/Sergio/master/test1.xml</externallink>
 </item>
  
 <item>
-<title>cocina 2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>lista 2</title>
+<thumbnail>http://iptvprivado.tv/</thumbnail>
+<fanart>https://iptv-player-latino-pro.en.softonic.com/android</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/serchnom/Sergio/master/sergio2.xml</externallink>
 </item>
  
 <item>

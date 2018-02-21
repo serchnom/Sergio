@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Pesca de Sargos.La Pesca sobre la Espuma </title>        
-<urlsolve>https://www.youtube.com/watch?v=xjKug_xBxVI</urlsolve>
+<title>LISTA 1</title>        
+<urlsolve>http://painel.iptvmove.com:25461/get.php?username=ander&password=ander&type=m3u</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>LISTA 2</title>        
+<urlsolve>http://highroller.space:25461/get.php?username=smurf1&password=smurf1&type=m3u</urlsolve>
 <thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
